@@ -1,5 +1,5 @@
-torch==2.3+cu121
-torchaudio==2.3+cu121
+torch>=2.2+cu121
+torchaudio>=2.2+cu121
 faster-whisper==1.0.0
 transformers
 pandas
